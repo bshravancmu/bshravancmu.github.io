@@ -9,7 +9,7 @@
 - Education: B.Tech, IIT Bombay; M.S. Electrical and Computer Engineering, Carnegie Mellon University; Applied Data Science Program, MIT Professional Education (2024); Advanced Financial Risk Management certificate, IIM Bangalore; FRM (GARP).
 - Talks: "AI-Powered CDM Navigator", FINOS Open Source in Finance Forum, New York, 2025; "Fueling AI with the Right Data", AI in Financial Services USA (CeFPro).
 - Meditation: has practiced SKY Breath Meditation daily for about 30 years (learned at IIT Bombay); has taught Art of Living programs for nearly two decades, including SKY Breath Meditation, Sahaj Samadhi Meditation, Sri Sri Yoga, silent retreats and the Sleep and Anxiety Protocol. Completed 300-hour Advanced Yoga Teacher Training, Sri Sri School of Yoga.
-- Builds AI tools for Art of Living volunteers and teachers, and the "Art of Living Meditation Mentor" custom GPT.
+- Builds AI tools in volunteer time that help a global meditation community, and the "Art of Living Meditation Mentor" custom GPT.
 
 ## Links
 - [Home](https://bshravancmu.github.io/)
