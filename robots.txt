@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bshravancmu.github.io/sitemap.xml
